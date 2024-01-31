@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<hr>
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width=54% height=100% src="https://github-readme-stats.vercel.app/api?username=ImGdevel&show_icons=true&theme=dark&count_private=true&show_icons=true"  />
@@ -11,6 +11,7 @@
 
 <br>
 🛠 Technologies and tools
+<hr>
 <div> 
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/-C%23-512BD4?style=flat&logo=Csharp&logoColor=white"> 
