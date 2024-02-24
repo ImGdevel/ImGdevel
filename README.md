@@ -1,13 +1,5 @@
 <h2> ### Hi there 👋 </h2>
-<div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width=57% height=100% src="https://github-readme-stats.vercel.app/api?username=ImGdevel&show_icons=true&theme=dark&count_private=true&hide=issues"  />
-</a>    
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=38% height=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImGdevel&layout=compact&theme=dark&langs_count=6&hide=ShaderLab,HLSL&exclude_repo=T-T-TCRPG)](https://github.com/anuraghazra/github-readme-stats"/>
-</a>
-</div>
-
+journeying through web backend development and exploring creative endeavors in game development, i`m SH W
 
 <br>
 <h2> 🛠 Technologies and tools </h2>
@@ -33,6 +25,15 @@
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
   <br>
+</div>
+
+<div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width=57% height=100% src="https://github-readme-stats.vercel.app/api?username=ImGdevel&show_icons=true&theme=dark&count_private=true&hide=issues"  />
+</a>    
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width=38% height=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImGdevel&layout=compact&theme=dark&langs_count=6&hide=ShaderLab,HLSL&exclude_repo=T-T-TCRPG)](https://github.com/anuraghazra/github-readme-stats"/>
+</a>
 </div>
 
 
