@@ -1,5 +1,7 @@
 <h2> ### Hi there 👋 </h2>
-journeying through web backend development and exploring creative endeavors in game development, i`m SH W
+
+게임 개발을 취미로하는 벡엔드 개발자 지망생 우승화입니다.
+journeying through web backend development and exploring creative endeavors in game development, i am Seung Hwa.
 
 <br>
 <h2> 🛠 Technologies and tools </h2>
@@ -27,6 +29,7 @@ journeying through web backend development and exploring creative endeavors in g
   <br>
 </div>
 
+<br>
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width=57% height=100% src="https://github-readme-stats.vercel.app/api?username=ImGdevel&show_icons=true&theme=dark&count_private=true&hide=issues"  />
