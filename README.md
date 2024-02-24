@@ -4,7 +4,6 @@
 I'm Seung Hwa, an aspiring backend developer with a hobby in game development.
 
 <br>
-<br>
 <h2> 🛠 Technologies and tools </h2>
 <div> 
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
