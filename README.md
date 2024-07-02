@@ -1,5 +1,5 @@
 <h2> ### Hi there 👋 </h2>
-게임 개발을 취미로하는 벡엔드 개발자 지망생 우승화입니다. <br>
+안녕하세요. 게임 개발을 취미로하는 벡엔드 개발자 지망생 우승화입니다. <br>
 I'm Seung Hwa, an aspiring backend developer with a hobby in game development.
 
 <br>
