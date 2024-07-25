@@ -1,6 +1,6 @@
 <h2> ### Hi there 👋 </h2>
-안녕하세요. 백엔드 개발자를 목표로 하는 주니어 개발자 우승화입니다. <br>
-Hello. My name is Seunghwa Woo, and I am a junior developer aspiring to become a back-stack developer.
+안녕하세요. 백엔드 개발자를 목표로 하는 주니어 개발자입니다. <br>
+Hello. I am a junior developer aspiring to become a back-stack developer.
 
 <br>
 <h2> 🛠 Technologies and tools </h2>
