@@ -1,5 +1,5 @@
 <h2> ### Hi there 👋 </h2>
-안녕하세요. 게임개발이 취미인 백엔드 개발자 지망생 주니어 개발자입니다. <br>
+안녕하세요. 게임개발이 취미인 백엔드 개발자 지망생 지데벨입니다. <br>
 "Hello, I am Gdevel, an aspiring backend developer with a hobby in game development."
 
 <br>
