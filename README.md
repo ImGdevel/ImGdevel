@@ -1,6 +1,6 @@
 <h2> ### Hi there 👋 </h2>
 안녕하세요. 백엔드 개발자 지망생 우승화입니다. <br>
-"Hello, I am Gdevel, an aspiring backend developer with a hobby in game development."
+"Hello, I'm Woo Seung Hwa, an aspiring back-end developer."
 
 <br>
 <h2> 🛠 Technologies and tools </h2>
