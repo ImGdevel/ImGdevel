@@ -17,12 +17,11 @@ Every day is a step toward becoming a better version of myself than the day befo
 ### Languages
 <div>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/> 
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=C%20Sharp&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C%23-9B59B6?style=for-the-badge&logo=CSharp&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>  
 </div>
-
 
 ### Framework & Libraries
 <div> 
