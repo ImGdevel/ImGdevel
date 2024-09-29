@@ -41,6 +41,8 @@ Every day is a step toward becoming a better version of myself than the day befo
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"/> 
 </div>
 
+<!--
+
 <br>
 <h2> 🖥️ My Activity History </h2>
 <div>
@@ -51,7 +53,7 @@ Every day is a step toward becoming a better version of myself than the day befo
   <img width=37% height=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImGdevel&layout=compact&theme=dark&langs_count=6&hide=Jupyter%20Notebook,ShaderLab,HLSL&exclude_repo=T-T-TCRPG)](https://github.com/anuraghazra/github-readme-stats"/>
 </a>
 </div>
-
+-->
 
 <!--
 **ImGdevel/ImGdevel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
