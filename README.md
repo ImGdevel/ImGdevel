@@ -31,7 +31,6 @@ Every day is a step toward becoming a better version of myself than the day befo
 </div>
 <div>
 <img src="http://img.shields.io/badge/springBoot-6DB00E?style=for-the-badge&logo=Spring Boot&logoColor=white"/> 
-<img src="http://img.shields.io/badge/springSecurity-6DB00E?style=for-the-badge&logo=Spring Security&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
 </div>
