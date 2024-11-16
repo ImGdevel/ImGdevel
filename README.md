@@ -56,6 +56,7 @@ Every day is a step toward becoming a better version of myself than the day befo
 </a>
 </div>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=imdlsrks2012)](https://solved.ac/imdlsrks2012/)
 
 <!--
 **ImGdevel/ImGdevel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
