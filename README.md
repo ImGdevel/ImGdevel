@@ -16,41 +16,44 @@ Every day is a step toward becoming a better version of myself than the day befo
 
 
 
-<h2> 🛠 Technologies & Tools </h2>
+<h2 align="center"> 🛠 Technologies & Tools </h2>
 
-<h3 align="center"> 🚀 Languages </h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/C%23-9B59B6?style=for-the-badge&logo=CSharp&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>  
-</p>
-
-<h3 align="center"> 📚 Frameworks & Libraries  </h3>
-<p align="center"> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
-  <img src="http://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=Qt&logoColor=white"/>
-  <br>
-  <img src="http://img.shields.io/badge/springBoot-6DB00E?style=for-the-badge&logo=Spring Boot&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white"/> 
-</p>
-
-<h3 align="center"> 🎮 Game Development  </h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"/> 
-</p>
-
-<h3 align="center"> 🔧 DevOps & Tools </h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-</p>
+<table align="center" border="1" width="100%" style="border-collapse: collapse;">
+  <tr>
+    <th width="25%" style="padding: 10px; background-color: #f8f9fa;">🚀 Frontend</th>
+    <th width="25%" style="padding: 10px; background-color: #f8f9fa;">📚 Backend</th>
+    <th width="25%" style="padding: 10px; background-color: #f8f9fa;">🔧 DevOps & Tools</th>
+    <th width="20%" style="padding: 10px; background-color: #f8f9fa;">🎮 Game Dev</th>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 15px;">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>  
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>  
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+      <img src="http://img.shields.io/badge/react-61DAFB?style=flat-square&logo=React&logoColor=white"/>  
+    </td>
+    <td align="center" style="padding: 15px;">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>  
+      <img src="http://img.shields.io/badge/springBoot-6DB00E?style=flat-square&logo=Spring Boot&logoColor=white"/>  
+      <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>  
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>  
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>  
+    </td>
+    <td align="center" style="padding: 15px;">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>  
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>  
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>  
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>  
+    </td>
+    <td align="center" style="padding: 15px;">
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>  
+      <img src="https://img.shields.io/badge/C%23-9B59B6?style=flat-square&logo=CSharp&logoColor=white"/>  
+      <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>  
+    </td>
+  </tr>
+</table>
 
 
 
