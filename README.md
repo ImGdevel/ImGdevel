@@ -18,7 +18,7 @@ Every day is a step toward becoming a better version of myself than the day befo
 
 <h2> 🛠 Technologies & Tools </h2>
 
-### 🚀 Languages
+<h3 align="center"> 🚀 Languages </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/> 
   <img src="https://img.shields.io/badge/C%23-9B59B6?style=for-the-badge&logo=CSharp&logoColor=white"/> 
@@ -27,7 +27,7 @@ Every day is a step toward becoming a better version of myself than the day befo
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>  
 </p>
 
-### 📚 Frameworks & Libraries
+<h3 align="center"> 📚 Frameworks & Libraries  </h3>
 <p align="center"> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
@@ -39,12 +39,12 @@ Every day is a step toward becoming a better version of myself than the day befo
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white"/> 
 </p>
 
-### 🎮 Game Development
+<h3 align="center"> 🎮 Game Development  </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"/> 
 </p>
 
-### 🔧 DevOps & Tools
+<h3 align="center"> 🔧 DevOps & Tools </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
