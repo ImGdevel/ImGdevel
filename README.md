@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://your-portfolio.com"> SH Woo</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://your-portfolio.com"> S.H. WOO! </a> 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Backend+Developer+%7C+Spring+Boot+%7C+AWS;Passionate+about+Distributed+Systems;Building+Scalable+Microservices" />
 </p>
@@ -16,7 +16,66 @@ Every day is a step toward becoming a better version of myself than the day befo
 
 
 
-<h2 align="center"> 🛠 Technologies & Tools </h2>
+<h2> 🛠 Skill Stack </h2>
+
+
+<b>🌐 Web Frontend</b>: 
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,reactnative" />
+</a>
+
+<b>⚙️ Web Backend</b>: 
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring" />
+</a>
+
+<div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+  <b style="font-size: 24px;">🎮 Game Development</b>: 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,unity,unreal" height="30" />
+  </a>
+</div>
+
+
+
+<b>☁️ Infra & DevOps</b>: 
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,git" />
+</a>
+
+
+<table align="center" border="1" width="1000px" style="border-collapse: collapse;">
+  <tr>
+    <th width="25%" style="padding: 10px; background-color: #f8f9fa;">🚀 Frontend</th>
+    <th width="25%" style="padding: 10px; background-color: #f8f9fa;">📚 Backend</th>
+    <th width="25%" style="padding: 10px; background-color: #f8f9fa;">🔧 DevOps & Tools</th>
+    <th width="20%" style="padding: 10px; background-color: #f8f9fa;">🎮 Game Dev</th>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 15px;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,typescript,react" height="30" />
+      </a>
+    </td>
+    <td align="center" style="padding: 15px;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,java,spring,mysql,postgresql,redis" height="30" />
+      </a>
+    </td>
+    <td align="center" style="padding: 15px;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=docker,aws,github" height="30" />
+      </a>
+    </td>
+    <td align="center" style="padding: 15px;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=cpp,cs,unity,unreal" height="30" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 
 <table align="center" border="1" width="100%" style="border-collapse: collapse;">
   <tr>
