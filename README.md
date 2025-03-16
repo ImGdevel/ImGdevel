@@ -1,64 +1,133 @@
-<h2> 👋 Introduction  </h2>
-<p>안녕하세요, 생각하며 성장하는 것이 즐거운 개발자 '우승화'라고 합니다. </br>
-'더 나은 코드'를 짜기 위해 고민하고 또 생각하며 코딩합니다.
-</p>
+<h1 align="center">Hi there, I'm <a href="https://your-portfolio.com"> S.H. WOO! </a> 👋</h1>
 
+#### **안녕하세요!** 네트워크 및 서버 개발에 관심을 가지고 있는 백엔드 개발자입니다. <br> **REST API**와 **소켓 프로그래밍**을 연구하며, **확장 가능하고 최적화된 서버 아키텍처** 구축을 목표로 하고 있습니다.
 
-"I am Seunghwa Woo, a developer who finds joy in thoughtful growth. </br>
-I constantly strive to write better code by reflecting and pushing myself to improve. 
-Every day is a step toward becoming a better version of myself than the day before."
-
+"As a backend engineer, I am focused on learning and gaining experience in networking and server development. <br>
+I am particularly interested in researching REST APIs and socket programming, with a strong focus on building scalable and optimized server architectures.
+Currently, I am studying AWS-based infrastructure design and management, striving to create efficient systems capable of handling large-scale traffic."
 
 
 <br>
-<h2> 🛠 Technologies and tools </h2>
 
-### Languages
-<div>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/> 
-<img src="https://img.shields.io/badge/C%23-9B59B6?style=for-the-badge&logo=CSharp&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>  
+<h2> 🛠 Skill Stack </h2>
+
+<div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,redis,aws,linux,rabbitmq,react,docker" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python,unity,dotnet" />
 </div>
-
-### Framework & Libraries
-<div> 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
-<img src="http://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=Qt&logoColor=white"/>
-</div>
-<div>
-<img src="http://img.shields.io/badge/springBoot-6DB00E?style=for-the-badge&logo=Spring Boot&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
-</div>
-
-### GAME
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"/> 
-
-### Others
-<div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/> 
-</div>
-
-
 
 <br>
-<h2> 🖥️ My Activity History </h2>
+
+<h2> 🖥️ Activity History </h2>
 <div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width=56% height=100% src="https://github-readme-stats.vercel.app/api?username=ImGdevel&show_icons=true&theme=dark&count_private=true&hide=issues"  />
-</a>    
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=37% height=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImGdevel&layout=compact&theme=dark&langs_count=6&hide=Jupyter%20Notebook,ShaderLab,HLSL&exclude_repo=T-T-TCRPG)](https://github.com/anuraghazra/github-readme-stats"/>
-</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="41%" src="https://github-readme-stats.vercel.app/api?username=ImGdevel&show_icons=true&theme=tokyonight&count_private=true"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="31%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImGdevel&layout=compact&theme=tokyonight&langs_count=6&hide=Jupyter%20Notebook,ShaderLab,HLSL&exclude_repo=T-T-TCRPG"/>
+  </a>
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=imdlsrks2012)](https://solved.ac/imdlsrks2012/)
 
 <!--
+
+<b>☁️ Infra & DevOps</b>: 
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,git" />
+</a>
+
+
+<table align="center" border="1" width="1000px" style="border-collapse: collapse;">
+  <tr>
+    <th width="25%" style="padding: 10px; background-color: #f8f9fa;">🚀 Frontend</th>
+    <th width="25%" style="padding: 10px; background-color: #f8f9fa;">📚 Backend</th>
+    <th width="25%" style="padding: 10px; background-color: #f8f9fa;">🔧 DevOps & Tools</th>
+    <th width="20%" style="padding: 10px; background-color: #f8f9fa;">🎮 Game Dev</th>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 15px;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,typescript,react" height="30" />
+      </a>
+    </td>
+    <td align="center" style="padding: 15px;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,java,spring,mysql,postgresql,redis" height="30" />
+      </a>
+    </td>
+    <td align="center" style="padding: 15px;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=docker,aws,github" height="30" />
+      </a>
+    </td>
+    <td align="center" style="padding: 15px;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=cpp,cs,unity,unreal" height="30" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+<div> 
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/> 
+
+<img src="http://img.shields.io/badge/springBoot-6DB00E?style=for-the-badge&logo=Spring Boot&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white"/> 
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> 
+<img src="http://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
+</div>
+
+<table align="center" border="1" width="100%" style="border-collapse: collapse;">
+  <tr>
+    <th width="25%" style="padding: 10px; background-color: #f8f9fa;">🚀 Frontend</th>
+    <th width="25%" style="padding: 10px; background-color: #f8f9fa;">📚 Backend</th>
+    <th width="25%" style="padding: 10px; background-color: #f8f9fa;">🔧 DevOps & Tools</th>
+    <th width="20%" style="padding: 10px; background-color: #f8f9fa;">🎮 Game Dev</th>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 15px;">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+      <img src="http://img.shields.io/badge/react-61DAFB?style=flat-square&logo=React&logoColor=white"/>  
+    </td>
+    <td align="center" style="padding: 15px;">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>  
+      <img src="http://img.shields.io/badge/springBoot-6DB00E?style=flat-square&logo=Spring Boot&logoColor=white"/>  
+      <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>  
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>  
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>  
+    </td>
+    <td align="center" style="padding: 15px;">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>  
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>  
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>  
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>  
+    </td>
+    <td align="center" style="padding: 15px;">
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>  
+      <img src="https://img.shields.io/badge/C%23-9B59B6?style=flat-square&logo=CSharp&logoColor=white"/>  
+      <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>  
+    </td>
+  </tr>
+</table>
+
+
+
+
+<h2> 🖥️ My Activity History </h2>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ImGdevel&show_icons=true&theme=tokyonight&count_private=true"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImGdevel&layout=compact&theme=tokyonight&langs_count=6&hide=Jupyter%20Notebook,ShaderLab,HLSL&exclude_repo=T-T-TCRPG"/>
+  </a>
+</p>
+
 **ImGdevel/ImGdevel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
