@@ -1,10 +1,13 @@
 <h1 align="center">Hi there, I'm <a href="https://your-portfolio.com"> S.H. WOO! </a> 👋</h1>
 
-🚀 **Backend Developer | Spring Boot & AWS | DevOps Enthusiast**  
+### **안녕하세요!** 네트워크 및 서버 개발에 관심을 가지고 있는 백엔드 개발자입니다. <br> **REST API**와 **소켓 프로그래밍**을 연구하며, **확장 가능하고 최적화된 서버 아키텍처** 구축을 목표로 하고 있습니다.
+### 
 
-🔹 관심 기술: **Distributed Systems, CI/CD, Database Optimization**  
-🔹 현재 개발 중: **[웹툰 추천 서비스 프로젝트](https://github.com/your-repo)**  
-🔹 목표: **고성능 백엔드 아키텍처 설계 & MSA 도입**  
+
+"As a backend engineer, I am focused on learning and gaining experience in networking and server development. <br>
+I am particularly interested in researching REST APIs and socket programming, with a strong focus on building scalable and optimized server architectures.
+Currently, I am studying AWS-based infrastructure design and management, striving to create efficient systems capable of handling large-scale traffic."
+
 
 <br>
 
@@ -18,13 +21,13 @@
 
 <br>
 
-<h2> 🖥️ My Activity History </h2>
+<h2> 🖥️ Activity History </h2>
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="37%" src="https://github-readme-stats.vercel.app/api?username=ImGdevel&show_icons=true&theme=tokyonight&count_private=true"/>
+    <img width="41%" src="https://github-readme-stats.vercel.app/api?username=ImGdevel&show_icons=true&theme=tokyonight&count_private=true"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImGdevel&layout=compact&theme=tokyonight&langs_count=6&hide=Jupyter%20Notebook,ShaderLab,HLSL&exclude_repo=T-T-TCRPG"/>
+    <img width="31%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImGdevel&layout=compact&theme=tokyonight&langs_count=6&hide=Jupyter%20Notebook,ShaderLab,HLSL&exclude_repo=T-T-TCRPG"/>
   </a>
 </div>
 
