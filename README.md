@@ -1,8 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://your-portfolio.com"> S.H. WOO! </a> 👋</h1>
 
-### **안녕하세요!** 네트워크 및 서버 개발에 관심을 가지고 있는 백엔드 개발자입니다. <br> **REST API**와 **소켓 프로그래밍**을 연구하며, **확장 가능하고 최적화된 서버 아키텍처** 구축을 목표로 하고 있습니다.
-### 
-
+#### **안녕하세요!** 네트워크 및 서버 개발에 관심을 가지고 있는 백엔드 개발자입니다. <br> **REST API**와 **소켓 프로그래밍**을 연구하며, **확장 가능하고 최적화된 서버 아키텍처** 구축을 목표로 하고 있습니다.
 
 "As a backend engineer, I am focused on learning and gaining experience in networking and server development. <br>
 I am particularly interested in researching REST APIs and socket programming, with a strong focus on building scalable and optimized server architectures.
