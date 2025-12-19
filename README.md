@@ -30,8 +30,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImGdevel&layout=compact&theme=tokyonight&langs_count=6&hide=Jupyter%20Notebook,ShaderLab,HLSL&exclude_repo=T-T-TCRPG"/>
   </a>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://solved.ac/imdlsrks2012/">
     <img width="29%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=imdlsrks2012"/>
   </a>
 
