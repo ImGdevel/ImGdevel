@@ -18,6 +18,21 @@
 <br>
 <img src="https://skillicons.dev/icons?i=cpp,cs,python,dotnet,unity&theme=light" height="50" />
 
+
+
+<br> <br>
+
+<h2> Activity History </h2>
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="33%" src="https://github-readme-stats.vercel.app/api?username=ImGdevel&show_icons=true&theme=tokyonight&count_private=true"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImGdevel&layout=compact&theme=tokyonight&langs_count=6&hide=Jupyter%20Notebook,ShaderLab,HLSL&exclude_repo=T-T-TCRPG"/>
+  </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="29%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=imdlsrks2012"/>
+  </a>
+
 </div>
-
-
