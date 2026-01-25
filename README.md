@@ -23,6 +23,13 @@
 
 <h2> Activity History </h2>
 <div>
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ImGdevel&utm_content=line">
+    <img
+      src="https://render.gitanimals.org/lines/ImGdevel?pet-id=802877708687720938"
+      width="200"
+      height="100"
+    />
+  </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="33%" src="https://github-readme-stats.vercel.app/api?username=ImGdevel&show_icons=true&theme=tokyonight&count_private=true"/>
   </a>
@@ -32,6 +39,6 @@
 
 </div>
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/ImGdevel?pet-id=1" width="1000" height="120"/>
-</a>
+
+
+  
