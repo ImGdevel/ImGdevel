@@ -27,7 +27,7 @@
     <img
       src="https://render.gitanimals.org/lines/ImGdevel?pet-id=802877708687720938"
       width="200"
-      height="100"
+      height="150"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
