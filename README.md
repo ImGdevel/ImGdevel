@@ -30,13 +30,17 @@
       height="150"
     />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="33%" src="https://github-readme-stats.vercel.app/api?username=ImGdevel&show_icons=true&theme=tokyonight&count_private=true"/>
+  <a href="https://www.gitanimals.org/">
+    <img
+      src="https://render.gitanimals.org/guilds/810166361256449002/draw"
+      width="280"
+      height="150"
+      alt="gitanimals"
+    />
   </a>
   <a href="https://solved.ac/imdlsrks2012/">
     <img width="29%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=imdlsrks2012"/>
   </a>
-
 </div>
 
 
