@@ -13,34 +13,37 @@
 
 <br>
 
-<h2> Skill Stack </h2>
+<h3> Skill Stack </h3>
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,redis,aws,linux,rabbitmq,react,docker&theme=light" height="50" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,redis,aws,linux,rabbitmq,react,docker&theme=light" height="40" />
 <br>
-<img src="https://skillicons.dev/icons?i=cpp,cs,python,dotnet,unity&theme=light" height="50" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,python,dotnet,unity&theme=light" height="40" />
 
 <br> 
 
 <h2> Activity History </h2>
 <div>
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ImGdevel&utm_content=line">
-    <img
-      src="https://render.gitanimals.org/lines/ImGdevel?pet-id=802877708687720938"
-      width="200"
-      height="150"
+
+
+  <a href="https://www.git-ranker.com/users/ImGdevel">
+    <img 
+      src="https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjYyMzM5Nzk0" 
+      alt="Git Ranker Badge"
+      height="140"
     />
+  </a>
+  
+  <a href="https://solved.ac/imdlsrks2012/">
+    <img height="140" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=imdlsrks2012"/>
   </a>
   <a href="https://www.gitanimals.org/">
     <img
       src="https://render.gitanimals.org/guilds/810166361256449002/draw"
-      width="280"
-      height="150"
+      height="140"
       alt="gitanimals"
     />
   </a>
-  <a href="https://solved.ac/imdlsrks2012/">
-    <img width="29%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=imdlsrks2012"/>
-  </a>
+  
 </div>
 
 
