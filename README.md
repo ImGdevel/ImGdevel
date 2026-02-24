@@ -15,7 +15,7 @@
 
 <h3> Skill Stack </h3>
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,redis,aws,linux,rabbitmq,react,docker&theme=light" height="40" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,redis,aws,linux,react,docker&theme=light" height="40" />
 <br>
 <img src="https://skillicons.dev/icons?i=cpp,cs,python,dotnet,unity&theme=light" height="40" />
 
