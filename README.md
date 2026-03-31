@@ -6,7 +6,10 @@
   꾸준히 만들고 개선하는 과정을 좋아하며,<br/>
    <b>더 나은 방향을 찾는</b> 개발 자체에서 즐거움을 느끼며 살아갑니다.
 
+
+<!--
   <br/><br/>
+
 
   <a href="https://streak-stats.demolab.com?user=ImGdevel&hide_border=true&theme=onedark">
     <img height="165" src="https://streak-stats.demolab.com?user=ImGdevel&hide_border=true&theme=onedark" />
@@ -20,4 +23,5 @@
   <a href="https://solved.ac/imdlsrks2012/">
     <img height="100" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=imdlsrks2012" />
   </a>
+  -->
 </div>
