@@ -12,14 +12,14 @@
 
 
   <a href="https://streak-stats.demolab.com?user=ImGdevel&hide_border=true&theme=onedark">
-    <img height="130" src="https://streak-stats.demolab.com?user=ImGdevel&hide_border=true&theme=onedark" />
+    <img height="100" src="https://streak-stats.demolab.com?user=ImGdevel&hide_border=true&theme=onedark" />
   </a>
 
   <a href="https://www.git-ranker.com/users/ImGdevel">
-    <img height="130" src="https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjYyMzM5Nzk0" alt="Git Ranker Badge" />
+    <img height="100" src="https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjYyMzM5Nzk0" alt="Git Ranker Badge" />
   </a>
   <a href="https://solved.ac/imdlsrks2012/">
-    <img height="130" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=imdlsrks2012" />
+    <img height="100" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=imdlsrks2012" />
   </a>
   
 </div>
