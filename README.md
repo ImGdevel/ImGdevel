@@ -7,6 +7,7 @@
   </p>
 </div>
 
+
 ---
 
 <!--
@@ -62,6 +63,11 @@
 </div>
 
 <p>
+
+</p>
+
+---
+
   <a href="https://github.com/ImGdevel">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -71,4 +77,3 @@
   <a href="https://imgdevel.tistory.com/">
     <img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=tistory&logoColor=white" alt="Tech Blog" />
   </a>
-</p>
