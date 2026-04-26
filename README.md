@@ -1,12 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1f1f,45:373737,100:525252&height=170&section=header&text=ImGdevel%20%EC%9A%B0%EC%8A%B9%ED%99%94&fontSize=24&fontColor=d4d4d4&desc=Backend%20Developer%20%7C%20Designing%20Maintainable%20Systems&descSize=15&descAlignY=70" alt="header" />
 
-  <p>
-    구조와 설계를 고민하는,<br/>
-    오래도록 유지될 수 있는 시스템을 만드는 개발자 우승화입니다.
-  </p>
 </div>
-
 
 ---
 
@@ -54,7 +49,11 @@
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ImGdevel&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImGdevel&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImGdevel&layout=compact&hide_border=true&theme=tokyonight&exclude_repo=MJ-SWOss-rich,My-Study-Repository,MJU-backend2024"
+  alt="Top languages"
+/>
 </div>
 
 <div align="center">
