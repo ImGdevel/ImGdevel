@@ -71,7 +71,7 @@
     src="https://streak-stats.demolab.com?user=ImGdevel&amp;hide_border=true&amp;theme=tokyonight"
     alt="GitHub streak"
   />
-  <a href="https://www.git-ranker.com">
+  <a href="https://www.git-ranker.com/ko/users/ImGdevel">
     <img
       height="145"
       src="https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjYyMzM5Nzk0"
